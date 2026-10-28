@@ -5,4 +5,4 @@ Mi repositorio se organiza en dos carpetas:
 
 **2.Scripts Python**: contiene los scripts que he desarrollado para automatizar tareas del proyecto. En los PDF explico como usarlos y ejecutarlos.
 
-Mi objetivo con este proyecto es adquirir experiencia práctica y demostrar mis competencias en monitorización de seguridad, análisis de amenazas, correlación de eventos y habilidades con herramientas SIEM aplicado a entornos empresariales.
+Mi objetivo con este proyecto es adquirir experiencia práctica, demostrar mis competencias en monitorización de seguridad, análisis de amenazas, y uso de herramientas SIEM aplicado a entornos empresariales.
